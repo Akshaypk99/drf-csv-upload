@@ -1,0 +1,5 @@
+name,email,age
+Akshay,akshay@gmail.com,30
+Surya,surya@example.com,25
+Arun,invalidemail,150
+,missingsample@example.com,20

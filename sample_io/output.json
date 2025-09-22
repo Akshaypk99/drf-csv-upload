@@ -1,0 +1,19 @@
+{
+  "records_saved": 2,
+  "records_rejected": 2,
+  "errors": [
+    {
+      "row": 3,
+      "errors": {
+        "email": ["Enter a valid email address."],
+        "age": ["Age must be between 0 and 120."]
+      }
+    },
+    {
+      "row": 4,
+      "errors": {
+        "name": ["This field may not be blank."]
+      }
+    }
+  ]
+}
